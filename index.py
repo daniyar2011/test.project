@@ -35,3 +35,12 @@ frukti["Apple"] = "green"
 del frukti["Orange"]
 
 print(frukti)
+print(bestnum[13])
+
+haha = {
+    True: "это правда",
+    False: "это неправда"
+
+}
+print(haha[False])
+
